@@ -1,5 +1,7 @@
 # Europeana Redirecter
 
+*DEPRECATED:* this application is no longer maintained nor used.
+
 A simple Rack application to redirect all HTTP requests to another location.
 
 ## License
